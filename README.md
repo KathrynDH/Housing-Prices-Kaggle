@@ -5,4 +5,4 @@ The data provided include a training dataset and a test dataset. The predictions
 
 Data for this project can be viewed here: [Kaggle.com - House Prices: Advanced Regression Techniques - Data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
-View the notebook using Jupyter nbviewer:https://nbviewer.jupyter.org/github/KathrynDH/Housing-Prices-Kaggle/blob/master/lassocv-model-house-prices-advanced-reg.ipynb
+View the notebook using Jupyter nbviewer: https://nbviewer.jupyter.org/github/KathrynDH/Housing-Prices-Kaggle/blob/master/lassocv-model-house-prices-advanced-reg.ipynb
